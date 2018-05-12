@@ -1,0 +1,34 @@
+_repo: The-Best-of-the-World-s-Classics-Restricted-to-prose.-Volume-III--of-X----Great-Britain-and-I__21679
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Halsey, Francis W. (Francis Whiting)
+    birthdate: 1851
+    deathdate: 1919
+    gutenberg_agent_id: '3081'
+    url: http://www.gutenberg.org/2009/agents/3081
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Whiting_Halsey
+  - agent_name: Lodge, Henry Cabot
+    birthdate: 1850
+    deathdate: 1924
+    gutenberg_agent_id: '728'
+    url: http://www.gutenberg.org/2009/agents/728
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cabot_Lodge
+description: ''
+gutenberg_issued: '2007-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature -- Collections'
+title: The Best of the World's Classics,  Restricted to prose. Volume III (of X) -
+  Great Britain and Ireland I
+url: http://www.gutenberg.org/ebooks/21679
